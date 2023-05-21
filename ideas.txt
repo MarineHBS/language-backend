@@ -1,0 +1,6 @@
+Use REDIS as database for app, but do hibernate second level cache as well to try it
+Paging for all the words
+Implement some design patterns
+Aspect oriented programming!
+
+

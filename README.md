@@ -1,0 +1,1 @@
+secrets.properties stores the access key and secret key for the user able to access DB
